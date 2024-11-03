@@ -23,3 +23,4 @@ function handleScroll() {
 }
 
 window.addEventListener('scroll', handleScroll);
+<script src="script.js"></script>
